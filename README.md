@@ -58,7 +58,7 @@ Exploring AI/ML — from fundamentals toward LLMs, RAG, and agentic systems
 
 <h3 align="center">Socials</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/ashwini-kansal">
+  <a href="https://www.linkedin.com/in/ashwini-kansal-731436382">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> &nbsp;&nbsp;
   <a href="mailto:bt25cse190@iiitn.ac.in">
