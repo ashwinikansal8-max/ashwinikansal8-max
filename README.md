@@ -16,7 +16,7 @@ Exploring AI/ML — from fundamentals toward LLMs, RAG, and agentic systems
 
 <h1 align="center">Coding Platforms</h1>
 
-* <img src="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40"> &nbsp;&nbsp;&nbsp;&nbsp; <a href="#">Profile</a><br>
+* <img src="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40"> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://codeforces.com/profile/ashwinikansal8">Profile</a><br>
 * <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40"> &nbsp;&nbsp;&nbsp;&nbsp; <a href="#">Profile</a>
 
 <!-- Add your actual profile links above once you paste this in -->
@@ -64,7 +64,7 @@ Exploring AI/ML — from fundamentals toward LLMs, RAG, and agentic systems
   <a href="mailto:bt25cse190@iiitn.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a> &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://codeforces.com/profile/ashwinikansal8">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces">
   </a> &nbsp;&nbsp;
   <a href="#">
