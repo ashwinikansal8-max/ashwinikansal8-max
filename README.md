@@ -51,7 +51,11 @@ Exploring AI/ML — from fundamentals toward LLMs, RAG, and agentic systems
 
 <h3 align="center">My Stats</h3>
 <div align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinikansal8-max&theme=dark&background=000000" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinikansal8-max&show_icons=true&theme=dark&bg_color=000000" alt="GitHub Stats">
+  <br><br>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=ashwinikansal8-max&theme=dark&background=000000" alt="GitHub Streak">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinikansal8-max&layout=compact&theme=dark&bg_color=000000" alt="Top Languages">
 </div>
 
 ---
