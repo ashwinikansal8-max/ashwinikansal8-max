@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashwini</h1>
-
 <h3 align="center">CSE Undergrad @ IIIT Nagpur | Competitive Programmer | Exploring AI/ML</h3>
 
 ---
 
 <h3 align="center">🎯 Currently</h3>
-
 <p align="center">
 B.Tech in Computer Science and Engineering, IIIT Nagpur (2nd Year)<br>
 Deep in Data Structures & Algorithms, training with TLE Eliminators CP-31<br>
@@ -19,8 +17,6 @@ Exploring AI/ML — from fundamentals toward LLMs, RAG, and agentic systems
 * <img src="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40"> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://codeforces.com/profile/ashwinikansal8">Profile</a><br>
 * <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40"> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/u/Ashwini_Kansal/">Profile</a>
 
-<!-- Add your actual profile links above once you paste this in -->
-
 ---
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ashwinikansal8-max" alt=""></p>
@@ -28,7 +24,6 @@ Exploring AI/ML — from fundamentals toward LLMs, RAG, and agentic systems
 ---
 
 <h1 align="center">Tech Stack</h1>
-
 <p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -53,11 +48,9 @@ Exploring AI/ML — from fundamentals toward LLMs, RAG, and agentic systems
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashwinikansal8-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinikansal8-max&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=ashwinikansal8-max&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinikansal8-max&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
@@ -75,7 +68,7 @@ Exploring AI/ML — from fundamentals toward LLMs, RAG, and agentic systems
   <a href="https://codeforces.com/profile/ashwinikansal8">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces">
   </a> &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://leetcode.com/u/Ashwini_Kansal/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode">
   </a>
 </p>
