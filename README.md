@@ -1,30 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ashwini</h1>
-<h3 align="center">CSE Undergrad @ IIIT Nagpur | Competitive Programmer | Exploring AI/ML</h3>
+<h1 align="center">Hey, I'm Ashwini 👋</h1>
+<h3 align="center">CSE @ IIIT Nagpur — building real systems, training hard in DSA/CP, learning AI/ML by shipping</h3>
 
 ---
 
-<h3 align="center">🎯 Currently</h3>
-<p align="center">
-B.Tech in Computer Science and Engineering, IIIT Nagpur (2nd Year)<br>
-Deep in Data Structures & Algorithms, training with TLE Eliminators CP-31<br>
-Exploring AI/ML — from fundamentals toward LLMs, RAG, and agentic systems
-</p>
+### 🧭 Right now
+
+I'm a 2nd-year CS student at IIIT Nagpur. Most days split between two things:
+
+- **DSA/CP** — training with TLE Eliminators CP-31, working through Codeforces and LeetCode, aiming for real competitive-programming comfort, not just interview-pattern memorization.
+- **Building things in Java** — I care more about *why* a design works than about finishing fast. My recent projects lean on OOP fundamentals and classic design patterns (Observer, Factory, Template Method) instead of tutorial-style CRUD apps.
+
+I'm also starting to explore AI/ML — right now that means fundamentals first (numpy, pandas, actually working through the math), with LLMs, RAG, and agentic systems as the direction I'm heading, not something I'm claiming to know yet.
 
 ---
 
-<h1 align="center">Coding Platforms</h1>
+### 🛠 What I actually use
 
-* <img src="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40"> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://codeforces.com/profile/ashwinikansal8">Profile</a><br>
-* <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40"> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/u/Ashwini_Kansal/">Profile</a>
-
----
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ashwinikansal8-max" alt=""></p>
-
----
-
-<h1 align="center">Tech Stack</h1>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -36,43 +28,33 @@ Exploring AI/ML — from fundamentals toward LLMs, RAG, and agentic systems
 
 ---
 
-<h1 align="center">📌 Pinned Work</h1>
+### 🏗 Projects I'd actually point you to
 
-* **[codeforces-solutions](https://github.com/ashwinikansal8-max/Codeforces-Solutions)** — Java solutions auto-organized by problem rating
-* **[leetcode-solutions](https://github.com/ashwinikansal8-max/leetcode-solutions)** — Solutions auto-synced via LeetSync, organized by topic and difficulty
-* **EcoPulse / SmartFlow** — Smart City themed team project at IIIT Nagpur
-
----
-
-<h3 align="center">My Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=ashwinikansal8-max&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ashwinikansal8-max&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</div>
-<div align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=ashwinikansal8-max&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</div>
+* **Mini Stock Trading Engine** — Java, 14 files. Two PriorityQueue-based order books, Observer/Factory/Template Method patterns, a full simulation driver. *(Push this repo and drop the link here — it's your strongest work and it isn't public yet.)*
+* **Library / BookStore System** — Java. Abstract `Item` base, `Borrowable` interface, custom checked exceptions, Map-based catalog. *(Same — push it, link it.)*
+* **[EcoPulse / SmartFlow](#)** — Smart City-themed team project at IIIT Nagpur. *(Add one line on what it does and what your part was, plus the actual repo link.)*
 
 ---
 
-<h3 align="center">Socials</h3>
-<p align="center">
+### 📚 DSA / CP — training in the open
+
+Not polished, not huge yet — an honest log of the work, growing as I go.
+
+* <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="20"> [LeetCode](https://leetcode.com/u/Ashwini_Kansal/) — solutions auto-synced via LeetSync, organized by topic/difficulty.
+* <img src="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="20"> [Codeforces](https://codeforces.com/profile/ashwinikansal8) — solutions auto-sorted by problem rating.
+* CodeChef — *(link it here if you're active, otherwise leave it out until you are.)*
+
+---
+
+### 📬 Reach me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/ashwini-kansal-731436382">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> &nbsp;&nbsp;
   <a href="mailto:bt25cse190@iiitn.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a> &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/ashwinikansal8">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces">
-  </a> &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Ashwini_Kansal/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode">
   </a>
 </p>
 
----
-
-<p align="center"><i>Long-term goal: a FAANG internship, and a full-time role after graduation 🚀</i></p>
+<p align="center"><i>Working toward a FAANG internship, then a full-time role after graduation.</i></p>
